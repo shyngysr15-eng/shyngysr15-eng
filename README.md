@@ -47,7 +47,7 @@ I'm passionate about **machine learning**, **algorithms**, **computational scien
 
 <p align="center">
   <a href="https://leetcode.com/u/SWrd_China/">
-    <img src="https://leetcode-stats-badge.vercel.app/api?username=SWrd_China&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcard.ashish.io/SWrd_China?theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
 
