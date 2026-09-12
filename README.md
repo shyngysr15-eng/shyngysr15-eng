@@ -44,8 +44,8 @@ I'm passionate about **machine learning**, **algorithms**, **computational scien
 ---
 
 ### 📬 Connect with Me
-- **LinkedIn:** [Shyngys Rakhmatulla](https://www.linkedin.com/in/shyngys-rakhmatulla-90233b3a7/)
-- **Telegram:** [@china_swrd](https://t.me/china_swrd)
-- Email:** `shyngys.r.15@icloud.com`
+- LinkedIn: [Shyngys Rakhmatulla](https://www.linkedin.com/in/shyngys-rakhmatulla-90233b3a7/)
+- Telegram: [@china_swrd](https://t.me/china_swrd)
+- Email: shyngys.r.15@icloud.com
 - Leetcode: https://leetcode.com/u/SWrd_China/
 - Codeforces: https://codeforces.com/profile/swordds
