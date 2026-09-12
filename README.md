@@ -1,4 +1,4 @@
-# Hi there, I'm Shyngys Rakhmatulla 👋
+Hi there, I'm Shyngys Rakhmatulla 👋
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+%26+Applied+Research;Building+Practical+AI+Systems;Computational+Science+%26+Algorithms" alt="Typing SVG" />
@@ -10,9 +10,9 @@ I'm passionate about **machine learning**, **algorithms**, **computational scien
 
 ---
 
-### 🛠 Tech Stack & Tools
 
-### 🛠 Core Stack & Technologies
+
+🛠 Core Stack & Technologies
 
 <p align="center">
   <!-- AI / ML & Data -->
