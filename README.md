@@ -43,13 +43,6 @@ I'm passionate about **machine learning**, **algorithms**, **computational scien
 
 ---
 
-### 🧩 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/SWrd_China/">
-    <img src="https://leetcard.ashish.io/SWrd_China?theme=dark" alt="LeetCode Stats" />
-  </a>
-</p>
 
 ### 📬 Connect with Me
 - LinkedIn: [Shyngys Rakhmatulla](https://www.linkedin.com/in/shyngys-rakhmatulla-90233b3a7/)
